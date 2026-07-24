@@ -3,7 +3,7 @@
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16 lg:h-20">
         <!-- Logo -->
-        <a href="#" class="flex items-center gap-2 text-bluice-800 font-extrabold text-xl tracking-tight">
+        <a href="/" class="flex items-center gap-2 text-bluice-800 font-extrabold text-xl tracking-tight">
           <span class="w-8 h-8 rounded-lg bg-bluice-800 flex items-center justify-center text-white text-sm font-bold">Prof</span>
           Mu Gomes
         </a>
