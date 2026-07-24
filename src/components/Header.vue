@@ -12,7 +12,7 @@
         <nav class="hidden md:flex items-center gap-8 text-sm font-medium text-slate-600">
           <a href="#sobre" class="hover:text-bluice-700 transition-colors">Sobre</a>
           <a href="#projetos" class="hover:text-bluice-700 transition-colors">Projetos</a>
-          <a href="#assinantes" class="hover:text-bluice-700 transition-colors">Assinantes</a>
+          <a href="https://pixie.gg/profmugomes" target="_blank" rel="noopener noreferrer" class="hover:text-bluice-700 transition-colors">Apoie</a>
           <a href="#loja" class="hover:text-bluice-700 transition-colors">Loja</a>
           <a href="#contato" class="hover:text-bluice-700 transition-colors">Contato</a>
         </nav>
@@ -69,8 +69,8 @@
         <a href="#projetos" class="flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium text-bluice-100 hover:bg-bluice-800 hover:text-white transition-colors" @click="closeDrawer">
           <span class="text-lg">📦</span> Projetos
         </a>
-        <a href="#assinantes" class="flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium text-bluice-100 hover:bg-bluice-800 hover:text-white transition-colors" @click="closeDrawer">
-          <span class="text-lg">🎫</span> Assinantes
+        <a href="https://pixie.gg/profmugomes" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium text-bluice-100 hover:bg-bluice-800 hover:text-white transition-colors" @click="closeDrawer">
+          <span class="text-lg">🎫</span> Apoie
         </a>
         <a href="#loja" class="flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium text-bluice-100 hover:bg-bluice-800 hover:text-white transition-colors" @click="closeDrawer">
           <span class="text-lg">🛒</span> Loja

@@ -41,42 +41,27 @@
     </div>
   </section>
 
-  <!-- Assinantes -->
-  <section id="assinantes" class="py-16 lg:py-20 bg-slate-50">
+  <!-- Apoie -->
+  <section id="apoie" class="py-16 lg:py-20 bg-slate-50">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center">
         <span class="text-emerald-600 font-semibold text-sm uppercase tracking-wider">Apoie</span>
-        <h2 class="mt-2 text-3xl sm:text-4xl font-bold text-bluice-900">Assinantes</h2>
+        <h2 class="mt-2 text-3xl sm:text-4xl font-bold text-bluice-900">Apoie o projeto</h2>
         <p class="mt-4 text-lg text-slate-500 leading-relaxed max-w-xl mx-auto">
-          Ajude a manter o conteúdo gratuito e tenha acesso a salas exclusivas, materiais
-          e benefícios especiais.
+          Contribua com a criação de conteúdo gratuito, aulas e projetos de código aberto.
+          Cada apoio faz diferença!
         </p>
       </div>
 
-      <div class="mt-12 grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        <!-- SalaPHP -->
-        <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 flex flex-col items-center text-center hover:shadow-md transition-shadow">
-          <div class="w-16 h-16 rounded-2xl bg-bluice-100 flex items-center justify-center text-3xl">🐘</div>
-          <h3 class="mt-4 text-xl font-bold text-slate-800">SalaPHP</h3>
-          <p class="mt-2 text-sm text-slate-500 leading-relaxed">
-            Sala de aula no Google Classroom com conteúdo premium,
-            suporte e networking com a comunidade PHP. É necessário ter
-            uma <strong>conta do Google</strong> para acessar.
-          </p>
-          <a href="https://pag.ae/81_94G9G4" target="_blank" rel="noopener noreferrer"
-             class="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-white bg-emerald-600 hover:bg-emerald-700 transition-colors px-5 py-2.5 rounded-lg shadow-sm">
-            Assinar SalaPHP
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
-            </svg>
-          </a>
-        </div>
-
-        <!-- Placeholder para futuros assinantes -->
-        <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 border-dashed flex flex-col items-center justify-center text-center min-h-[260px] opacity-60 hover:opacity-80 transition-opacity">
-          <div class="w-12 h-12 rounded-full bg-slate-100 flex items-center justify-center text-2xl">➕</div>
-          <p class="mt-3 text-sm font-medium text-slate-400">Novos grupos em breve</p>
-        </div>
+      <div class="mt-12 flex justify-center">
+        <a href="https://pixie.gg/profmugomes" target="_blank" rel="noopener noreferrer"
+           class="inline-flex items-center gap-3 text-lg font-semibold text-white bg-emerald-600 hover:bg-emerald-700 transition-colors px-8 py-4 rounded-xl shadow-md hover:shadow-lg">
+          <span>💚</span>
+          Apoie através do pixie.gg/profmugomes
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+          </svg>
+        </a>
       </div>
     </div>
   </section>
