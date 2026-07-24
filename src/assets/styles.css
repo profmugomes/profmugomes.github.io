@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bluice-50: #eff6ff;
+  --color-bluice-100: #dbeafe;
+  --color-bluice-200: #bfdbfe;
+  --color-bluice-300: #93c5fd;
+  --color-bluice-400: #60a5fa;
+  --color-bluice-500: #3b82f6;
+  --color-bluice-600: #2563eb;
+  --color-bluice-700: #1d4ed8;
+  --color-bluice-800: #1e40af;
+  --color-bluice-900: #1e3a8a;
+  --color-bluice-950: #172554;
+  --font-family-inter: 'Inter', sans-serif;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
