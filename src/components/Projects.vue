@@ -10,10 +10,10 @@
         </p>
       </div>
 
-      <!-- Projetos Autorais (fixos) -->
+      <!-- Projetos (fixos) -->
       <div class="mb-12">
         <h3 class="text-xl font-bold text-slate-700 mb-6 flex items-center gap-2">
-          <span class="text-2xl">📌</span> Projetos Autorais
+          <span class="text-2xl">📌</span> Projetos
         </h3>
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           <a v-for="p in autorais" :key="p.name" :href="p.url" target="_blank" rel="noopener noreferrer"
